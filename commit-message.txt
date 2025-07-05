@@ -1,1 +1,1 @@
-feat: Update job listings with 20 new roles
+fix: Update job links to company career pages for stability
