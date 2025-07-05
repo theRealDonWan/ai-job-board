@@ -1,0 +1,38 @@
+[
+    {
+        "title": "Machine Learning Engineer, Ads",
+        "company": "Apple",
+        "location": "Cupertino, CA",
+        "url": "https://jobs.apple.com/en-us/details/200553276/machine-learning-engineer-ads"
+    },
+    {
+        "title": "Staff Machine Learning Engineer",
+        "company": "Google",
+        "location": "Sunnyvale, CA",
+        "url": "https://careers.google.com/jobs/results/108233150494245574-staff-machine-learning-engineer-google-cloud-ai/"
+    },
+    {
+        "title": "Senior Machine Learning Engineer",
+        "company": "Netflix",
+        "location": "Los Gatos, CA",
+        "url": "https://jobs.netflix.com/jobs/282798536"
+    },
+    {
+        "title": "Machine Learning Engineer",
+        "company": "Amazon",
+        "location": "Seattle, WA",
+        "url": "https://www.amazon.jobs/en/jobs/2652164/machine-learning-engineer"
+    },
+    {
+        "title": "Research Scientist, Generative AI",
+        "company": "Meta",
+        "location": "Menlo Park, CA",
+        "url": "https://www.metacareers.com/v2/jobs/1179943556410428/"
+    },
+    {
+        "title": "Machine Learning Engineer",
+        "company": "NVIDIA",
+        "location": "Santa Clara, CA",
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Machine-Learning-Engineer_JR1978320"
+    }
+]
