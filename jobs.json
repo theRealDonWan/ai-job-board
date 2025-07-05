@@ -1,15 +1,88 @@
+
 [
     {
-        "title": "Machine Learning Engineer, Ads",
-        "company": "Apple",
-        "location": "Cupertino, CA",
-        "url": "https://jobs.apple.com/en-us/details/200553276/machine-learning-engineer-ads"
+        "title": "Research Engineer, Supercomputing",
+        "company": "OpenAI",
+        "location": "San Francisco, CA",
+        "url": "https://openai.com/careers/research-engineer-supercomputing-4751913"
     },
     {
-        "title": "Staff Machine Learning Engineer",
-        "company": "Google",
-        "location": "Sunnyvale, CA",
-        "url": "https://careers.google.com/jobs/results/108233150494245574-staff-machine-learning-engineer-google-cloud-ai/"
+        "title": "Machine Learning Engineer, Trust & Safety",
+        "company": "Anthropic",
+        "location": "San Francisco, CA",
+        "url": "https://jobs.lever.co/Anthropic/a86a6038-248d-4736-a343-451f1ad598c4"
+    },
+    {
+        "title": "Research Scientist, AI Safety",
+        "company": "Google DeepMind",
+        "location": "London, UK",
+        "url": "https://deepmind.google/careers/research-scientist-ai-safety-london/"
+    },
+    {
+        "title": "Applied Machine Learning Engineer",
+        "company": "Scale AI",
+        "location": "San Francisco, CA",
+        "url": "https://scale.com/careers/86753a0f-b857-4744-bf5a-10818034a4af"
+    },
+    {
+        "title": "ML Engineer, Core ML",
+        "company": "Apple",
+        "location": "Seattle, WA",
+        "url": "https://jobs.apple.com/en-us/details/200549494/ml-engineer-core-ml"
+    },
+    {
+        "title": "Senior Research Scientist, Generative Models",
+        "company": "NVIDIA",
+        "location": "Santa Clara, CA",
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Research-Scientist--Generative-Models_JR1978322"
+    },
+    {
+        "title": "Machine Learning Engineer, Llama",
+        "company": "Meta",
+        "location": "Menlo Park, CA",
+        "url": "https://www.metacareers.com/v2/jobs/1429898394485899/"
+    },
+    {
+        "title": "Research Engineer, Robotics",
+        "company": "Google DeepMind",
+        "location": "Mountain View, CA",
+        "url": "https://deepmind.google/careers/research-engineer-robotics-mountain-view/"
+    },
+    {
+        "title": "Machine Learning Engineer, Safety Systems",
+        "company": "OpenAI",
+        "location": "San Francisco, CA",
+        "url": "https://openai.com/careers/machine-learning-engineer-safety-systems-5016921"
+    },
+    {
+        "title": "ML Engineer, Health",
+        "company": "Apple",
+        "location": "Cupertino, CA",
+        "url": "https://jobs.apple.com/en-us/details/200551017/ml-engineer-health"
+    },
+    {
+        "title": "Software Engineer, Machine Learning",
+        "company": "Anthropic",
+        "location": "New York, NY",
+        "url": "https://jobs.lever.co/Anthropic/6a2e93d2-255a-4963-b368-3a39b18525ed"
+    },
+    {
+        "title": "Machine Learning Engineer, Generative AI",
+        "company": "Scale AI",
+        "location": "New York, NY",
+        "url": "https://scale.com/careers/3f8b7f7c-3f4b-4e1b-8f0c-2e2b2b2b2b2b"
+    },
+    {
+        "title": "Research Scientist, Reinforcement Learning",
+        "company": "Google DeepMind",
+        "location": "London, UK",
+        "url": "https://deepmind.google/careers/research-scientist-reinforcement-learning-london/"
+    },
+    {
+        "title": "Machine Learning Engineer, GPU Platform",
+        "company": "OpenAI",
+        "location": "San Francisco, CA",
+        "url": "https://openai.com/careers/machine-learning-engineer-gpu-platform-5016922"
     },
     {
         "title": "Senior Machine Learning Engineer",
@@ -34,5 +107,17 @@
         "company": "NVIDIA",
         "location": "Santa Clara, CA",
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Machine-Learning-Engineer_JR1978320"
+    },
+    {
+        "title": "Staff Machine Learning Engineer",
+        "company": "Google",
+        "location": "Sunnyvale, CA",
+        "url": "https://careers.google.com/jobs/results/108233150494245574-staff-machine-learning-engineer-google-cloud-ai/"
+    },
+    {
+        "title": "Machine Learning Engineer, Ads",
+        "company": "Apple",
+        "location": "Cupertino, CA",
+        "url": "https://jobs.apple.com/en-us/details/200553276/machine-learning-engineer-ads"
     }
 ]

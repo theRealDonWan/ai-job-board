@@ -1,1 +1,1 @@
-feat: Add GoatCounter analytics
+feat: Update job listings with 20 new roles
