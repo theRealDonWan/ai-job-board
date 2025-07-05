@@ -1,1 +1,1 @@
-fix: Ensure OpenAI job links point to main website for stability
+fix: Update OpenAI job links to a more specific careers page
